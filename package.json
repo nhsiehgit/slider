@@ -1,21 +1,12 @@
 {
-  "name": "rc-slider",
-  "version": "3.7.3",
-  "description": "slider ui component for react",
-  "keywords": [
-    "react",
-    "react-component",
-    "react-slider",
-    "slider"
-  ],
-  "homepage": "http://github.com/react-component/slider",
-  "author": "sima.zhang1990@gmail.com",
+  "name": "nhsieh-test-select",
+  "version": "1.0.0",
+  "description": "testing how to package our select component",
+  "homepage": "",
+  "author": "hsieh.nathan@gmail.com",
   "repository": {
     "type": "git",
-    "url": "git@github.com:react-component/slider.git"
-  },
-  "bugs": {
-    "url": "http://github.com/react-component/slider/issues"
+    "url": "git@github.com:nhsiehgit/slider.git"
   },
   "files": [
     "assets/*.css",
